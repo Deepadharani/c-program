@@ -1,0 +1,11 @@
+#include<stdio.h>
+void main()
+{
+int sum=0;
+int n;
+for(i=1;i<+n;i++)
+{
+sum=sum+1;
+printf("naturakl numbers are%d",n);
+}
+}
