@@ -7,9 +7,6 @@ scanf("%d",&i);
 if(i<=5)
 {
 printf("hello");
-}
-else
-{
-printf("enter the correct number
+  i++;
 }
 }
