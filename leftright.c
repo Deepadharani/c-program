@@ -6,7 +6,7 @@ printf("enter the number:");
 scanf("%d",&a);
 printf("enter the l and r number:");
 scanf("%d%d",&b,&c);
-if(a<b&&a<c)
+if(a>b&&a<c)
 {
 printf("yes");
 }
